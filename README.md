@@ -3,6 +3,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 </p>
+<h2 align="center">🔨 Required</h2>
+<p align="center">
+  <p align="center">ESX<br>Ox Lib</p>
+</p>
 <h2 align="center">💫 Features</h2>
 <p align="center">
   <p align="center">Unlimiting vehicle spawning<br>and more!</p>
