@@ -37,11 +37,11 @@ lib.registerContext({
     options = {
       {
        name = "Police Garage",
-       icon = 'fa-sharp fa-solid fa-garage',
+       icon = 'fa-solid fa-garage',
        onSelect = function()
-        lib.showContext("PDGarage")
+        lib.showContext("LSPDGarage")
       end,
-       label = "Open Garage",
+       label = "Open Police Garage",
       }
     }
   })
