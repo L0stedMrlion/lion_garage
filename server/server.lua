@@ -1,4 +1,4 @@
-if Config.Updater then
+if Config.Updates then
     PerformHttpRequest("https://raw.githubusercontent.com//L0stedMrlion/LionProjectVersion/main/LionGarage", function(err, Version, headers)
 
         local ScriptVersion = GetResourceMetadata(GetCurrentResourceName(), "version")
