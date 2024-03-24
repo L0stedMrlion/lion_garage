@@ -9,5 +9,5 @@
 </p>
 <h2 align="center">💫 Features</h2>
 <p align="center">
-  <p align="center">Unlimiting vehicle spawning<br>and more!</p>
+  <p align="center">Unlimiting vehicle spawning<br>Helicopter spawner!</p>
 </p>
