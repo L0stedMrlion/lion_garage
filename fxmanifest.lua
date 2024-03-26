@@ -14,8 +14,7 @@ shared_script {
 }
 
 client_scripts {
-  "client/vehicle-garage.lua",
-  "client/heliport.lua",
+  "client/garages.lua",
 }
 
 server_scripts {

@@ -16,4 +16,3 @@ if Config.Updates then
       end
     end)
   end
-  
