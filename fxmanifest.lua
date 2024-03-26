@@ -5,7 +5,7 @@ lua54 "yes"
 name "LionGarage"
 author 'Mrlion'
 description "Mrlion's FiveM script for garages"
-version '1.2'
+version '1.3'
 
 shared_script {
   "@es_extended/imports.lua",
