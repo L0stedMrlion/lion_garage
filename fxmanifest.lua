@@ -9,8 +9,7 @@ repository "https://github.com/L0stedMrlion/LionGarage"
 version '1.4'
 
 shared_script {
-  "@es_extended/imports.lua",
-  "@ox_lib/init.lua",
+  "@ox_lib/init.lua"
 }
 
 server_scripts { 
